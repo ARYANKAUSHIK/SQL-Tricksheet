@@ -1,4 +1,5 @@
-# sql-cheatsheet   ###SQL Indexing
+# sql-cheatsheet   
+###SQL Indexing
 Personal cheat sheet for querying relational database in SQL SERVER
 
 ## The Basics
