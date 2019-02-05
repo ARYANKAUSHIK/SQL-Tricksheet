@@ -1,6 +1,6 @@
 # sql-cheatsheet   
 
-##SQL Indexing
+##SQL Indexing 
 
 Personal cheat sheet for querying relational database in SQL SERVER
 
@@ -74,7 +74,7 @@ INSERT INTO table_name
 VALUES (value, value)
 ```
 
-### UPDATE Table
+### UPDATE  Table
 ```sql
 UPDATE table_name
     SET column = value,
@@ -102,7 +102,7 @@ WHERE condition;
 ```
 
 ###### MIN/MAX
-*Returns the smallest/biggest value in selected column*
+*Returns the smallest / biggest value in selected column*
 ```sql
 SELECT [ MIN | MAX ] (column_name)
 FROM table_name
